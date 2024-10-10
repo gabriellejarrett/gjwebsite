@@ -1,23 +1,72 @@
 [
   {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "publications",
+    "section": "",
+    "text": "I will put pub ref here hooray"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "To push changes for this website from R to GitHub!\n\n\n\nUniversity of New Hampshire, Bachelor of Science in Marine, Estuarine, and Freshwater Biology (MEFB) with Minor in Classics, 2024\nUniversity of New Hampshire, Marine Biology Master’s (in progress)\n\n\n\nLab Tech in Moore lab February 2023 - August 2024\nIndependent Undergraduate Research August 2024 - May 2024 Patterns of Microplastic Deposition in Salt Marshes of the Hampton-Seabrook Estuary\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "To push changes for this website from R to GitHub!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of New Hampshire, Bachelor of Science in Marine, Estuarine, and Freshwater Biology (MEFB) with Minor in Classics, 2024\nUniversity of New Hampshire, Marine Biology Master’s (in progress)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Lab Tech in Moore lab February 2023 - August 2024\nIndependent Undergraduate Research August 2024 - May 2024 Patterns of Microplastic Deposition in Salt Marshes of the Hampton-Seabrook Estuary"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Differential deposition in estuarine sediments in Great Bay Estuary"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Differential deposition in estuarine sediments in Great Bay Estuary"
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nDifferential impact of plastic presence on estuarine sediment microbiomes in Great Bay Estuary"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nSpatial Variation in Microplastic Deposition in Salt Marsh Sediment in the Hampton-Seabrook Estuary"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "I will put pub ref here hooray"
   }
 ]

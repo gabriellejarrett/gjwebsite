@@ -6,14 +6,22 @@ about:
   image: img/profile.png
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+To push changes for this website from R to GitHub!
 
 ## Education
 
+University of New Hampshire, Bachelor of Science in Marine, Estuarine, and Freshwater Biology (MEFB) with Minor in Classics, 2024
+
+University of New Hampshire, Marine Biology Master’s (in progress)
+
 ## Experience
 
+Lab Tech in Moore lab February 2023 - August 2024
+
+Independent Undergraduate Research August 2024 - May 2024 *Patterns of Microplastic Deposition in Salt Marshes of the Hampton-Seabrook Estuary*
 :::
 
 Thanks for checking out my web site!
